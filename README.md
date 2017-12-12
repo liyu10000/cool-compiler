@@ -6,4 +6,6 @@ Stanford CS143 Compilers: http://web.stanford.edu/class/cs143/
 
 PA1: a small program written in COOL to handle arith operations, stack machine.
 
-PA2: lexer
+PA2: lexer (string of characters --> string of tokens)
+
+PA3: parser (string of tokens --> parse tree)
